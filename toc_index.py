@@ -140,7 +140,7 @@ def index_pdf(pdf_path: Path, force: bool = False) -> Path:
         "toc": toc,
         "pages": {str(k): v for k, v in pages.items()},
     }
-    out_path.write_text(json.dumps(index, indent=2, ensure_ascii=False))
+    out_path.write_text(json.dumps(index, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"  Saved -> {out_path}\n")
     return out_path
 
