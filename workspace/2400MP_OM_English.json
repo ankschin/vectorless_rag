@@ -1,0 +1,295 @@
+{
+  "title": "2400MP_OM_English",
+  "source": "llm",
+  "total_pages": 49,
+  "toc": [
+    {
+      "title": "Introduction",
+      "page_start": 1,
+      "page_end": 4,
+      "children": [
+        {
+          "title": "Notes, Notices, and Cautions",
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "title": "Contents",
+          "page_start": 3,
+          "page_end": 4,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Your Dell Projector",
+      "page_start": 5,
+      "page_end": 7,
+      "children": [
+        {
+          "title": "Package Contents",
+          "page_start": 5,
+          "page_end": 6,
+          "children": []
+        },
+        {
+          "title": "About Your Projector",
+          "page_start": 7,
+          "page_end": 7,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Connecting Your Projector",
+      "page_start": 8,
+      "page_end": 13,
+      "children": [
+        {
+          "title": "Connecting to a Computer",
+          "page_start": 9,
+          "page_end": 9,
+          "children": []
+        },
+        {
+          "title": "Connecting to a DVD Player",
+          "page_start": 10,
+          "page_end": 12,
+          "children": [
+            {
+              "title": "Connecting a DVD Player with an S-video Cable",
+              "page_start": 10,
+              "page_end": 10,
+              "children": []
+            },
+            {
+              "title": "Connecting a DVD Player with a Composite Cable",
+              "page_start": 11,
+              "page_end": 11,
+              "children": []
+            },
+            {
+              "title": "Connecting a DVD Player with a Component Cable",
+              "page_start": 12,
+              "page_end": 12,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Professional Installation Options",
+          "page_start": 13,
+          "page_end": 13,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Using Your Projector",
+      "page_start": 14,
+      "page_end": 30,
+      "children": [
+        {
+          "title": "Turning Your Projector On",
+          "page_start": 14,
+          "page_end": 14,
+          "children": []
+        },
+        {
+          "title": "Adjusting the Projector Zoom and Focus",
+          "page_start": 16,
+          "page_end": 16,
+          "children": []
+        },
+        {
+          "title": "Using the Control Panel",
+          "page_start": 18,
+          "page_end": 19,
+          "children": []
+        },
+        {
+          "title": "Using the Remote Control",
+          "page_start": 20,
+          "page_end": 20,
+          "children": []
+        },
+        {
+          "title": "Using the On-Screen Display",
+          "page_start": 21,
+          "page_end": 29,
+          "children": [
+            {
+              "title": "Main Menu",
+              "page_start": 22,
+              "page_end": 22,
+              "children": []
+            },
+            {
+              "title": "Picture Settings",
+              "page_start": 23,
+              "page_end": 25,
+              "children": []
+            },
+            {
+              "title": "Preferences",
+              "page_start": 28,
+              "page_end": 29,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Troubleshooting Your Projector",
+      "page_start": 31,
+      "page_end": 36,
+      "children": [
+        {
+          "title": "Partial, scrolling, or incorrectly displayed image",
+          "page_start": 32,
+          "page_end": 32,
+          "children": []
+        },
+        {
+          "title": "The image is stretched when displaying a 16:9 DVD",
+          "page_start": 33,
+          "page_end": 33,
+          "children": []
+        },
+        {
+          "title": "TEMP light and Power light are solid orange",
+          "page_start": 34,
+          "page_end": 34,
+          "children": []
+        },
+        {
+          "title": "Changing the Lamp",
+          "page_start": 35,
+          "page_end": 36,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Specifications",
+      "page_start": 37,
+      "page_end": 41,
+      "children": [
+        {
+          "title": "Light Valve",
+          "page_start": 37,
+          "page_end": 37,
+          "children": []
+        },
+        {
+          "title": "RS232 Pin Assignment",
+          "page_start": 39,
+          "page_end": 39,
+          "children": []
+        },
+        {
+          "title": "Compatibility Modes",
+          "page_start": 40,
+          "page_end": 41,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Contacting Dell",
+      "page_start": 42,
+      "page_end": 42,
+      "children": []
+    },
+    {
+      "title": "Glossary",
+      "page_start": 43,
+      "page_end": 46,
+      "children": [
+        {
+          "title": "ANSI LUMENS",
+          "page_start": 43,
+          "page_end": 43,
+          "children": []
+        },
+        {
+          "title": "Contrast Ratio",
+          "page_start": 44,
+          "page_end": 44,
+          "children": []
+        },
+        {
+          "title": "Maximum Distance",
+          "page_start": 45,
+          "page_end": 45,
+          "children": []
+        },
+        {
+          "title": "Zoom Lens",
+          "page_start": 46,
+          "page_end": 46,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Index",
+      "page_start": 47,
+      "page_end": 49,
+      "children": []
+    }
+  ],
+  "pages": {
+    "1": "w w w. d e l l . c o m | s u p p o r t . d e l l . c o m\nDell™2400MP Projector\nUser's Guide\n",
+    "2": "Notes, Notices, and Cautions\nNOTE: A NOTE indicates important information that helps you\nmake better use of your projector.\nNOTICE: A NOTICE indicates either potential damage to\nhardware or loss of data and tells you how to avoid the problem.\nCAUTION: A CAUTION indicates a potential for property\ndamage, personal injury, or death.\n____________________\nInformation in this document is subject to change without notice.\n© 2007-2008 Dell Inc. All rights reserved.\nReproduction in any manner whatsoever without the written permission of Dell \nInc. is strictly forbidden.\nTrademarks used in this text: Dell and the DELL logo are trademarks of Dell \nInc.; DLP and DLP® logo are trademarks of Texas Instruments; Microsoft and \nWindows are either registered trademarks or trademarks of Microsoft \nCorporation  in the United States and/or other countries.\nOther trademarks and trade names may be used in this document to refer to either \nthe entities claiming the marks and names or their products. Dell Inc. disclaims \nany proprietary interest in trademarks and trade names other than its own.\nModel 2400MP\nMay 2008 Rev. A02\n",
+    "3": "Contents\n3\nContents\n1\nYour Dell Projector . . . . . . . . . . . . . . . . . .\n5\nAbout Your Projector\n. . . . . . . . . . . . . . . . . 7\n2\nConnecting Your Projector . . . . . . . . . . . .\n8\nConnecting to a Computer . . . . . . . . . . . . . . . . . 9\nConnecting to a DVD Player . . . . . . . . . . . . . . .\n10\nConnecting a DVD Player with an S-video Cable . .\n10\nConnecting a DVD Player with a Composite Cable .\n11\nConnecting a DVD Player with a Component Cable\n12\nProfessional Installation Options: . . . . . . . . . .\n13\n3\nUsing Your Projector\n. . . . . . . . . . . . . . . . 14\nTurning Your Projector On . . . . . . . . . . . . . . . .\n14\nTurning Your Projector Off . . . . . . . . . . . . . . . .\n14\nAdjusting the Projected Image\n. . . . . . . . . . . . .\n15\nRaising the Projector Height\n. . . . . . . . . . . .\n15\nLowering the Projector Height\n. . . . . . . . . . .\n15\nAdjusting the Projector Zoom and Focus\n. . . . . . . .\n16\nAdjusting Projection Image Size\n. . . . . . . . . . . .\n17\nUsing the Control Panel\n. . . . . . . . . . . . . . . . .\n18\n",
+    "4": "4\nContents\nUsing the Remote Control . . . . . . . . . . . . . . . .\n20\nUsing the On-Screen Display . . . . . . . . . . . . . .\n21\nMain Menu . . . . . . . . . . . . . . . . . . . . .\n22\nInput Select . . . . . . . . . . . . . . . . . . . . .\n22\nAuto-Adjust . . . . . . . . . . . . . . . . . . . . .\n22\nSet Up . . . . . . . . . . . . . . . . . . . . . . . .\n22\nPICTURE (in PC Mode) . . . . . . . . . . . . . . .\n24\nPICTURE (in Video Mode)\n. . . . . . . . . . . . .\n24\nDISPLAY (in PC Mode) . . . . . . . . . . . . . . .\n25\nDISPLAY (in Video Mode)\n. . . . . . . . . . . . .\n26\nLAMP . . . . . . . . . . . . . . . . . . . . . . . .\n26\nLANGUAGE . . . . . . . . . . . . . . . . . . . . .\n27\nPreferences\n. . . . . . . . . . . . . . . . . . . .\n28\n4\nTroubleshooting Your Projector\n. . . . . . . 31\nChanging the Lamp\n. . . . . . . . . . . . . . . . . . .\n35\n5\nSpecifications . . . . . . . . . . . . . . . . . . . . . 37\nContacting Dell\n. . . . . . . . . . . . . . . . . . . . .\n42\n6\nAppendix: Glossary\n. . . . . . . . . . . . . . . . 43\n",
+    "5": "Your Dell Projector\n5\n1\nYour Dell Projector\nYour projector comes with all the items shown below. Ensure that you have all the\nitems, and contact Dell if anything is missing.\nPackage Contents\n1.8m power cord (3.0m in Americas)\n1.8m VGA cable (D-sub to D-sub)\n1.8m USB cable\n1.8m D-sub to YPbPr cable\n2.0m S-video cable\n1.8m Composite Video cable\n",
+    "6": "6\nYour Dell Projector\n1.8m RCA to Audio cable\n1.8m mini pin to mini pin cable\nBatteries (2)\nRemote control\nDocumentation\nCarrying case\nPackage Contents (continued)\n",
+    "7": "Your Dell Projector\n7\nAbout Your Projector\n1\nControl panel\n2\nElevator button\n3\nRemote control receiver\n4\nLens\n5\nFocus ring\n6\nZoom tab\n",
+    "8": "8\nConnecting Your Projector\n2\nConnecting Your Projector\n1\nIR receiver\n2\nVGA in (D-sub) connector\n3\nVGA out (monitor loop-through)\n4\nUSB remote connector\n5\nAudio output connector\n6\nRS232 connector\n7\nPower cord connector\n8\nAudio input connector\n9\nComposite video connector\n10\nS-video connector\n11\nKensington lock hole\n",
+    "9": "Connecting Your Projector\n9\nConnecting to a Computer\n1\nPower cord\n2\nD-sub to D-sub cable\n3\nUSB to USB cable\n",
+    "10": "10\nConnecting Your Projector\nConnecting to a DVD Player\nConnecting a DVD Player with an S-video Cable\n1\nPower cord\n2\nS-video cable\n",
+    "11": "Connecting Your Projector\n11\nConnecting a DVD Player with a Composite Cable\n1\nPower cord\n2\nComposite video cable\n",
+    "12": "12\nConnecting Your Projector\nConnecting a DVD Player with a Component Cable\n1\nPower cord\n2\nD-sub to YPbPr cable\n",
+    "13": "Connecting Your Projector\n13\nProfessional Installation Options:\nConnecting a Computer with a RS232 cable\n1\nPower cord\n2\nRS232 cable\n",
+    "14": "14\nUsing Your Projector\n3\nUsing Your Projector\nTurning Your Projector On\nNOTE: Turn on the projector before you turn on the source. The power button\nlight blinks blue until pressed.\n1 Remove the lens cap.\n2 Connect the power cord and appropriate signal cables. For information about\nconnecting the projector, see \"Connecting Your Projector\" on page 8.\n3 Press the power button (see \"Using the Control Panel\" on page 18 to locate the\npower button). The Dell logo displays for 30 seconds.\n4 Turn on your source (computer, DVD player, etc.). The projector automatically\ndetects your source.\nIf the \"Searching for signal...\" message appears on the screen, ensure\nthat the appropriate cables are securely connected.\nIf you have multiple sources connected to the projector, press the Source button\non the remote control or control panel to select the desired source.\nTurning Your Projector Off\nNOTICE: Unplug the projector after properly shutting down as explained in the\nfollowing procedure.\n1 Press the power button.\n2 Press the power button again. The cooling fans continue to operate for 90 seconds.\n3 To power off the projector quickly, press the Power button while the projectors\ncooling fans are still running.\nNOTE: Before you turn on the projector again, wait for 60 seconds to allow the\ninternal temperature to stabilize.\n4 Disconnect the power cord from the electrical outlet and the projector.\n",
+    "15": "Using Your Projector\n15\nNOTE: If you press the power button while the projector is running, the \"Power\nOff the Lamp?\" message appears on the screen. To clear the message, press any\nbutton on the control panel or ignore the message; the message disappears after 5\nseconds.\nAdjusting the Projected Image\nRaising the Projector Height\n1 Press the elevator button.\n2 Raise the projector to the desired display angle, and then release the button to\nlock the elevator foot into position.\n3 Use the tilt adjustment wheel to fine-tune the display angle.\nLowering the Projector Height\n1 Press the elevator button.\n2 Lower the projector, and then release the button to lock the elevator foot into\nposition.\n1\nElevator button\n2\nElevator foot\n3\nTilt adjustment wheel\n",
+    "16": "16\nUsing Your Projector\nAdjusting the Projector Zoom and Focus\nCAUTION: To avoid damaging the projector, ensure that the zoom lens and\nelevator foot are fully retracted before moving the projector or placing the\nprojector in its carrying case.\n1 Rotate the zoom tab to zoom in and out.\n2 Rotate the focus ring until the image is clear. The projector focuses at distances\nfrom 3.9 ft to 39.4 ft (1.2 m to 12 m).\n1\nZoom tab\n2\nFocus ring\n",
+    "17": "Using Your Projector\n17\nAdjusting Projection Image Size\n",
+    "18": "18\nUsing Your Projector\nUsing the Control Panel\nScreen\n(Diagonal)\nMax.\n29.5\"\n(75.0 cm)\n83.7\"\n(212.5 cm)\n135.3\"\n(343.8 cm)\n189.5\"\n(481.3 cm)\n241.1\"\n(612.5 cm)\n295.3\"\n(750.0 cm)\nMin.\n24.6\"\n(62.5 cm)\n69.7\"\n(177.1 cm)\n112.8\"\n(286.5 cm)\n157.0\"\n(401.0 cm)\n201.0\"\n(510.4 cm)\n246.1\"\n(625.0 cm)\nScreen\nSize\nMax.\n(WxH)\n23.6\" x 17.7\"\n66.9\" x 50.2\"\n108.3\" x 81.2\"\n151.6\" x 113.7\"\n192.9\" x\n144.7\"\n236.2\" x\n177.2\"\n60.0 cm x\n45.5 cm\n170.0 cm x\n127.5 cm\n275.0 cm x\n206.3 cm\n385.0 cm x\n288.8 cm\n490.0 cm x\n367.5 cm\n600.0 cm x\n450.0 cm\nMin.\n(WxH)\n19.7\" x 14.8\"\n55.8\" x 41.8\"\n90.2\" x 67.7\"\n126.3\" x 94.7\"\n160.8\" x\n120.6\"\n196.9\" x\n147.6\"\n50.0 cm x\n37.5 cm\n141.7 cm x\n106.3 cm\n229.2 cm x\n171.9 cm\n320.8 cm x\n240.6 cm\n408.3 cm x\n306.3 cm\n500.0 cm x\n375.0 cm\nDistance\n3.9'\n(1.2 m)\n11.2'\n(3.4 m)\n18.0'\n(5.5 m)\n25.3'\n(7.7 m)\n32.2'\n(9.8 m)\n39.4'\n(12.0 m)\n* This graph is for user reference only.\n1\nPower\nTurn the projector on and off. For more\ninformation, see \"Turning Your Projector On\" on\npage 14 and \"Turning Your Projector Off\" on\npage 14.\n2\nSource\nPress to toggle through Analog RGB, Composite,\nComponent-i, S-video, and Analog YPbPr sources\nwhen multiple sources are connected to the\nprojector.\n",
+    "19": "Using Your Projector\n19\n3\nKeystone adjustment\nPress to adjust image distortion caused by tilting\nthe projector. (±40 degrees)\n4\nResync\nPress to synchronize the projector to the input\nsource. Resync does not operate if the on-screen\ndisplay (OSD) is displayed.\n5\nMenu\nPress to activate the OSD. Use the directional\nkeys and Menu button to navigate through the\nOSD.\n6\nTEMP warning light\n• A solid orange TEMP light indicates that the\nprojector has overheated. The display\nautomatically shuts down. Turn the display on\nagain after the projector cools down. If the\nproblem persists, contact Dell.\n• A blinking orange TEMP light indicates that a\nprojector fan has failed and the projector\nautomatically shuts down. If the problem\npersists, contact Dell.\n7\nLAMP warning light\nIf the LAMP light is solid orange, replace the\nlamp. If the LAMP light is blinking orange, the\nsystem has failed and the projector will\nautomatically shut down. If this problem persists,\ncontact Dell.\n8\nEnter\nPress to confirm the selection item.\n9\nKeystone adjustment\nPress to adjust image distortion caused by tilting\nthe projector. (±40 degrees)\n10\nUp\nand\nDown\nPress to select the OSD items.\n11\nand\nbuttons\nPress to adjust the OSD setting.\n",
+    "20": "20\nUsing Your Projector\nUsing the Remote Control\n1\nPower\nTurn the projector on and off. For more\ninformation, see \"Turning Your Projector On\" on\npage 14 and \"Turning Your Projector Off\" on\npage 14.\n2\nPress to adjust the OSD setting.\n3\nDown button\nPress to select OSD items.\n4\nMute\nPress to mute or un-mute the projector speaker.\n5\nVolume\nPress to increase the volume.\n6\nPage\nPress to move to previous page.\n7\nPage\nPress to move to next page.\n",
+    "21": "Using Your Projector\n21\nUsing the On-Screen Display\nThe projector has a multi-language On-Screen Display (OSD) that can be\ndisplayed with or without an input source present.\nIn the Main Menu, press\nor\nto navigate through the tabs. Press Enter\nbutton on the control panel or the remote control to select a submenu.\nIn the submenu, press\nor\nto make a selection. When an item is selected, the\ncolor changes to dark gray. Use\nor\non the control panel or the remote\n8\nVideo mode\nThe Dell 2400MP Micro-projector has preset\nconfigurations that are optimized for displaying\ndata (PC Graphics) or video (movies, games,\netc.). Press Video Mode button to toggle between\nPC mode, Movie mode, Game Mode, sRGB, or\nCUSTOM mode (for user to setup and save\npreferred settings). Pressing the Video Mode\nbutton once will show the current display mode.\nPressing the Video Mode button again will switch\nbetween modes.\n9\nBlank screen\nPress to hide the image, press again to resume\ndisplay of the image.\n10\nLED light\nLED indicator.\n11\nUp button\nPress to select OSD items.\n12\nEnter button\nPress to confirm the selection.\n13\nPress to adjust the OSD setting.\n14\nMenu\nPress to activate the OSD.\n15\nVolume\nPress to decrease the volume.\n16\nKeystone adjustment\nPress to adjust image distortion caused by tilting\nthe projector. (±40 degrees)\n17\nSource\nPress to switch between Analog RGB, Digital\nRGB, Composite, Component-i, S-video, and\nAnalog YPbPr sources.\n18\nAuto adjust\nPress to synchronize the projector to the input\nsource. Auto adjust does not operate if the OSD\n(On-Screen Display) is displayed.\n19\nKeystone adjustment\nPress to adjust image distortion caused by tilting\nthe projector. (±40 degrees)\n",
+    "22": "22\nUsing Your Projector\ncontrol to make adjustments to a setting.\nTo go back to Main Menu, go to BACK tab and press Enter button on the control\npanel or the remote control.\nTo exit the OSD, go to Exit tab and press Enter button on the control panel or the\nremote control.\nMain Menu\nInput Select\nAUTO SOURCE—Select ON (the default) to\nautodetect the available input signals.\nWhen the projector is on and you press\nSOURCE, it automatically finds the next\navailable input signal. Select OFF to lock\nthe current input signal. When OFF is\nselected and you press SOURCE, you\nselect which input signal you want to use.\nVGA—Press ENTER to detect VGA\nsignal.\nS-VIDEO—Press ENTER to detect S-Video signal.\nCOMPOSITE VIDEO—Press ENTER to detect Composite Video signal.\nAuto-Adjust\nSelect to show \"Auto Adjustment in\nProgress...\" information.\nSet Up\nH. KEYSTONE—Adjust image distortion caused by horizontal shifting of the\nprojector orientation.\n",
+    "23": "Using Your Projector\n23\nV. KEYSTONE—Adjust image\ndistortion caused by\ntilting the projector.\nAUTO KEYSTONE—Auto\nadjust the image\ndistortion by tilting the\nprojector.\nPROJECTOR MODE—Select how the image appears:\n•\nFront Projection-Desktop (the default).\n•\nFront Projection-Ceiling Mount — The projector turns the image upside\ndown for ceiling-mounted projection.\n•\nRear Projection-Desktop — The projector reverses the image so you can\nproject from behind a translucent screen.\n•\nRear Projection-Ceiling Mount — The projector reverses and turns the\nimage upside down. You can project from behind a translucent screen with a\nceiling-mounted projection.\nASPECT RATIO—Select an aspect ratio to adjust how the image appears.\n• 1:1 — The input source displays without scaling.\nUse 1:1 aspect ratio if you are using one of the following:\n– VGA cable and the computer has a resolution less than XGA (1024 x 768)\n– Component cable (576p/480i/480p)\n– S-Video cable\n– Composite cable\n• 16:9 — The input source scales to fit the width of the screen.\n• 4:3 — The input source scales to fit the screen.\nUse 16:9 or 4:3 if you are using one of the following:\n– Computer resolution greater than XGA\n– Component cable (1080i or 720p)\nPROJECTOR INFO—Press to show the projector model name, the present resolution\nand projector series number (PPID#).\n",
+    "24": "24\nUsing Your Projector\nPICTURE (in PC Mode)\nBRIGHTNESS—Use\nand\nto adjust the\nbrightness of the image.\nCONTRAST—Use\nand\nto control the degree\nof difference between the\nbrightest and darkest parts\nof the picture. Adjusting\nthe contrast changes the\namount of black and white\nin the image.\nCOLOR TEMP—Adjust the color temperature. The higher the temperature, the\nscreen appears bluer; the lower the temperature, the screen appears redder. User\nmode activates the values in the \"color setting\" menu.\nCOLOR ADJUST—Manually adjust red, green, and blue color.\nPICTURE (in Video Mode)\nBRIGHTNESS—Use\nand\nto adjust the\nbrightness of the image.\nCONTRAST—Use\nand\nto control the degree\nof difference between the\nbrightest and darkest parts\nof the picture. Adjusting\nthe contrast changes the\namount of black and white\nin the image.\nCOLOR TEMP—Adjust the\ncolor temperature. The\nhigher the temperature,\nthe screen appears bluer;\nthe lower the temperature, the screen appears redder. User mode activates the\nvalues in the \"color setting\" menu.\nCOLOR ADJUST—Manually adjust red, green, and blue color.\n",
+    "25": "Using Your Projector\n25\nSATURATION—Adjust a video source from black and white to fully saturated color.\nPress\nto decrease the amount of color in the image and\nto increase the\namount of color in the image.\nSHARPNESS—Press\nto decrease the sharpness and\nto increase the\nsharpness.\nTINT—Press\nto increase the amount of green in the image and\nto\nincrease the amount of red in the image.\nDISPLAY (in PC Mode)\nVIDEO MODE—Select a mode\nto optimize the display on\nhow the projector is being\nused: PC, MOVIE, sRGB\n(provides more accurate\ncolor representation),\nGAME , and CUSTOM\n(set your preferred\nsettings). If you adjust the\nsettings for White\nIntensity or Degamma, the\nprojector automatically\nswitches to CUSTOM.\nSIGNAL TYPE—Manually\nselect signal type RGB,\nYCbCr, YPbPr.\nZOOM—Press\nto digitally magnify an image to 10 times on the projection screen\nand press\nto reduce the zoomed image.\nWHITE INTENSITY—Setting 0 to maximize the color reproduction and 10 to\nmaximize the brightness.\nDEGAMMA—Adjust among the 4 preset values to change the color performance of\nthe display.\nHORIZONTAL POSITION—Press\nto adjust the horizontal position of the image to\nthe left and\nto adjust the horizontal position of the image to the right.\nVERTICAL POSITION—Press\nto adjust the vertical position of the image down\nand\nto adjust the vertical position of the image up.\nFREQUENCY—Change the display data clock frequency to match the frequency of\nyour computer graphics card. If you see a vertical flickering bar, use Frequency\ncontrol to minimize the bars. This is a coarse adjustment.\n",
+    "26": "26\nUsing Your Projector\nTRACKING—Synchronize the phase of the display signal with the graphic card. If you\nexperience an unstable or flickering image, use Tracking to correct it. This is a fine\nadjustment.\nDISPLAY (in Video Mode)\nVIDEO MODE—Select a mode\nto optimize the display on\nhow the projector is being\nused: PC, MOVIE, sRGB\n(provides more accurate\ncolor representation),\nGAME , and CUSTOM\n(set your preferred settings).\nIf you adjust the settings for\nWhite Intensity or\nDegamma, the projector\nautomatically switches to CUSTOM.\nSIGNAL TYPE—Manually select signal type RGB, YCbCr, YPbPr.\nZOOM—Press\nto digitally magnify an image to 10 times on the projection screen\nand press\nto reduce the zoomed image.\nWHITE INTENSITY—Setting 0 to maximize the color reproduction and 10 to\nmaximize the brightness.\nDEGAMMA—Adjust among the 4 preset values to change the color performance of\nthe display.\nLAMP\nLAMP HOUR—Display the\noperating hours since the\nlamp timer reset.\nPOWER SAVING—Select ON\nto set the power saving\ndelay period. The delay\nperiod is the amount of\ntime you want the projector\nto wait without signal\ninput. After that set time,\nthe projector enters power saving mode and turns off the lamp. The projector\nturns back on when it detects an input signal or when you press the power button.\nAfter two hours, the projector turns off or when you press the power button to turn\nthe projector on.\n",
+    "27": "Using Your Projector\n27\nECO MODE—Select ON to use the projector at a lower power level (230 Watts),\nwhich may provide longer lamp life, quieter operation, and dimmer luminance\noutput on the screen. Select OFF to operate at normal power level (260 Watts).\nLAMP RESET—After you install a new lamp, select Yes to reset the lamp timer.\nLANGUAGE\n",
+    "28": "28\nUsing Your Projector\nPreferences\nVOLUME—Press\nto\ndecrease the volume and\nto increase the volume.\nMUTE—Allows to mute the\nsound.\nCUSTOMIZED SCREEN—Press\nEnter will pop-up a menu,\nthen select \"YES\". The\nprojector will capture the\nscreen image as a \"My\nCustomized logo\". This\nscreen will replace all the\noriginal screens which\ncontains Dell logo. User\ncan recover the default\nscreen by selecting \"Dell\nLogo\" on the pop-up\nscreen.\nMENU LOCK—Select ON to enable Menu Lock for hiding the OSD menu. Select\nOFF to disable the Menu Lock. If you want to disable the Menu Lock function\nand the OSD disappears, press the Menu button on the panel for 15 seconds, then\ndisable the function.\nMENU TIMEOUT—Adjust the time delay of the OSD Timeout. The Default setting is\n30 seconds.\nMENU POSITION—Select the location of the OSD on the screen.\nMENU SETTING—Select to change the OSD background in full or opaque.\nPASSWORD—Protect your projector and restrict access to it with Password\nSecurity feature. This security utility enables you to impose a variety of\naccess restrictions to protect your privacy and stop others from tampering\nwith your projector. This means that the projector cannot be used if it is\ntaken without authorization, and thus serves as a theft-prevention feature.\nWhen Password Protect is enabled (On), a Password Protect screen\nrequesting you to enter a password will be displayed when the power plug is\ninserted into the electrical outlet and the power for the projector is first\nturned on. By default, this function is disabled. You can enable this feature\n",
+    "29": "Using Your Projector\n29\nusing the Password menu. This password security feature will be activated on\nthe next time you turn on the projector. If you enable this feature, you will\nbe asked to enter the projector's password after you turn on the projector:\n1\n1st time password input request:\na\nGo to Preferences menu, press Enter and then select Password to\nENABLE the password setting.\nb\nEnable the Password function will pop-up a character screen, key in\na 4-digit number from the screen and press the ENTER button.\nc\nTo confirm, enter the password again.\nd\nIf the password verification is successful, you may resume with\naccessing the projector's functions and its utilities.\n",
+    "30": "30\nUsing Your Projector\n2\nIf you have entered incorrect password, you will be given another 2\nchances. After the three invalid attempts, the projector will\nautomatically turn off.\nNOTE: If you forget your password, contact your dealer or qualified service\npersonnel.\n3\nTo cancel the password function, select OFF and enter the password to\ndisable the function.\nCHANGE PASSWORD—Key in the original password, then enter the new password\nand confirm the new password again.\nTEST PATTERN—Select ON to activate the built-in Test Pattern for self-testing\non focus and resolution. Select OFF to disable the function.\nFACTORY RESET —Select ON to reset the projector to its factory default settings.\nReset items include both computer sources and video source settings.\n",
+    "31": "Troubleshooting Your Projector\n31\n4\nTroubleshooting Your Projector\nIf you experience problems with your projector, see the following troubleshooting\ntips. If the problem persists, contact Dell.\nProblem\nPossible Solution\nNo image appears on the\nscreen\n• Ensure that the lens cap is removed and the\nprojector is turned on.\n• Ensure the external graphics port is enabled.\nIf you are using a Dell portable computer,\npress\n(Fn+F8). For other\ncomputers, see your respective\ndocumentation.\n• Ensure that all the cables are securely\nconnected. See on page 8.\n• Ensure that the pins of the connectors are\nnot bent or broken.\n• Ensure that the lamp is securely installed\n(see on page 35).\n• Use Test Pattern in the Preferences menu.\nEnsure that the colors of the test pattern are\ncorrect.\n",
+    "32": "32\nTroubleshooting Your Projector\nPartial, scrolling, or\nincorrectly displayed image\n1 Press the Resync button on the remote\ncontrol or the control panel.\n2 If you are using a Dell portable computer, set\nthe resolution of the computer to XGA\n(1024 x 768):\na Right-lick the unused portion of your\nWindows desktop, click Properties and\nthen select Settings tab.\nb Verify the setting is 1024 x 768 pixels for\nthe external monitor port.\nc Press\n(Fn+F8).\nIf you experience difficulty in changing\nresolutions or your monitor freezes, restart all\nthe equipment and the projector.\nIf you are not using a Dell portable computer,\nsee your documentation.\nThe screen does not display\nyour presentation\nIf you are using a portable computer, press\n(Fn+F8).\nImage is unstable or flickering\nAdjust the tracking in the OSD Display tab\n(in PC Mode only).\nImage has vertical flickering\nbar\nAdjust the frequency in the OSD Display tab\n(in PC Mode only).\nImage color is not correct\n• If your graphic card output signal is sync on\nGreen, and you would like to display VGA at\n60Hz signal, please go into OSD select\nDisplay, select Signal Type and then select\nRGB.\n• Use Test Pattern in the Preferences menu.\nEnsure that the colors of the test pattern are\ncorrect.\nImage is out of focus\n1 Adjust the focus ring on the projector lens.\n2 Ensure that the projection screen is within\nthe required distance from the projector\n(3.9 ft [1.2 m] to 39.4 ft [12 m]).\nProblem (continued)\nPossible Solution (continued)\n",
+    "33": "Troubleshooting Your Projector\n33\nThe image is stretched when\ndisplaying a 16:9 DVD\nThe projector automatically detects a 16:9\nDVD and adjusts the aspect ratio to full\nscreen with a 4:3 (letter-box) default setting.\nIf the image is still stretched, adjust the aspect\nratio as follows:\n• If you are playing a 16:9 DVD, select 4:3\naspect ratio type on your DVD player.\n• If you cannot select 4:3 aspect ratio type on\nyour DVD player, select 4:3 aspect ratio in\nthe Set Up menu in the OSD.\nImage is reversed\nSelect Set Up from the OSD and adjust the\nprojector mode.\nLamp is burned out or makes\na popping sound\nWhen the lamp reaches its end of life, it may\nburn out and may make a loud popping sound.\nIf this occurs, the projector does not turn back\non. To replace the lamp, see on page 35.\nLAMP light is solid orange\nIf the LAMP light is solid orange, replace the\nlamp.\nLAMP light and Power light\nare blinking orange\nIf the LAMP light and the Power light are\nblinking orange, the lamp driver has failed and\nthe projector will automatically shut down.\nUnplug the power cord after 3 minutes then\nturn the display on again. If this problem\npersists, contact Dell.\nLAMP light is blinking\norange and Power light is\nsolid blue\nIf the LAMP light is blinking orange and\nPower light is solid blue, the system has failed\nand the projector will automatically shut\ndown. Unplug the power cord after 3 minutes\nthen turn the display on again. If this problem\npersists, contact Dell.\nTEMP light is solid orange\nand Power light is solid blue\nThe lamp has overheated. The display\nautomatically shuts down. Turn the display on\nagain after the projector cools down. If the\nproblem persists, contact Dell.\nProblem (continued)\nPossible Solution (continued)\n",
+    "34": "34\nTroubleshooting Your Projector\nTEMP light and Power light\nare solid orange\nThe lamp driver has overheated. The display\nautomatically shuts down. Turn the display on\nagain after the projector cools down. If the\nproblem persists, contact Dell.\nTEMP light is blinking\norange\nA projector fan has failed and the projector\nwill automatically shut down. If the problem\npersists, contact Dell.\nThe OSD does not appear on\nthe screen\nTry to press the Menu button on the panel for\n10 seconds to unlock the OSD. Check the\nMenu Lock on page 28.\nThe remote control is not\noperating smoothly or works\nonly within a limited range\nThe battery may be low. Replace with 2 new\nAAA batteries.\nProblem (continued)\nPossible Solution (continued)\n",
+    "35": "Troubleshooting Your Projector\n35\nChanging the Lamp\nReplace the lamp when the message \"Lamp is approaching the end of its useful life\nin full power operation. Replacement suggested! www.dell.com/lamps\" appears on\nthe screen. If this problem persists after replacing the lamp, contact Dell. For more\ninformation, see \"Contacting Dell\".\nCAUTION: The lamp becomes very hot when in use. Do not attempt to replace\nthe lamp until the projector has been allowed to cool down for at least 30\nminutes.\n1 Turn off the projector and disconnect the power cord.\n2 Let the projector cool for at least 30 minutes.\n3 Loosen the 2 screws that secure the lamp cover, and remove the cover.\nCAUTION: If the lamp has shattered, be careful as broken pieces are sharp\nand can cause injury. Remove all broken pieces from the projector and\ndispose or recycle according to state, local, or federal law. Go to\nwww.dell.com/hg for additional information.\n4 Loosen the 2 screws that secure the lamp.\nCAUTION: Do not touch the bulb or the lamp glass at any time. Projector\nlamps are very fragile and may shatter if touched.\n5 Pull up the lamp by its metal handle.\nNOTE: Dell may require that lamps\nreplaced under warranty be returned to\nDell. Otherwise, contact your local\nwaste disposal agency for the address\nof the nearest deposit site.\n6 Replace with the new lamp.\n7 Tighten the 2 screws that secure the lamp.\n8 Replace the lamp cover and tighten the 2\nscrews.\n9 Reset the lamp usage time by selecting\n\"Yes\" for Lamp Reset in the OSD Lamp\ntab. (See Lamp menu on page 27)\n",
+    "36": "36\nTroubleshooting Your Projector\nCAUTION: Lamp Disposal (for the US only)\nLAMP(S) INSIDE THIS PRODUCT CONTAIN MERCURY AND MUST BE\nRECYCLED OR DISPOSED OF ACCORDING TO LOCAL, STATE OR FEDERAL\nLAWS. FOR MORE INFORMATION, GO TO WWW.DELL.COM/HG OR CONTACT\nTHE ELECTRONIC INDUSTRIES ALLIANCE AT WWW.EIAE.ORG. FOR LAMP\nSPECIFIC DISPOSAL INFORMATION CHECK WWW.LAMPRECYCLE.ORG.\n",
+    "37": "Specifications\n37\n5\nSpecifications\n5\nLight Valve\nSingle-chip 0.7\" XGA LVDS (low-voltage\ndifferential signaling) technology\nBrightness\n3000 ANSI Lumens (Max.)\nContrast Ratio\n2100:1 Typical (Full On/Full Off)\nUniformity\n80% Typical (Japan Standard - JBMA)\nNumber of Pixels\n1024 x 768 (XGA)\nDisplayable Color\n16.7M colors\nColor Wheel Speed\n100~127.5Hz (2X)\nProjection Lens\nF/2.4~2.7, f=28.0~33.6 mm with 1.2x\nmanual zoom lens\nProjection Screen Size\n24.6-295.3 inches (diagonal)\nProjection Distance\n3.9~39.4 ft (1.2 m~12 m)\nVideo Compatibility\nNTSC, NTSC 4.43, PAL, PAL-M, PAL-N,\nSECAM, and HDTV (1080i, 720p, 576i/p,\n480i/p) compatibility\nComposite video, Component video and S-\nvideo capability\nH. Frequency\n15kHz-92kHz (Analog)\nV. Frequency\n50Hz-85Hz (Analog)\nPower Supply\nUniversal 100-240V AC 50-60Hz with PFC\ninput\nPower Consumption\n325 watts typical, 285 watts in eco mode\nAudio\n1 speaker, 2 watt RMS\nNoise Level\n36 dB(A) Full-on mode, 33 dB(A) Eco-mode\nWeight\n<5.5 lbs (2.4 kg)\n",
+    "38": "38\nSpecifications\nNOTE: The actual operating life span of a projector lamp will vary according to\noperating conditions and usage patterns. Usage of a projector in stressful\nconditions which may include dusty environments, under high temperatures\nand abrupt powering-off may result in a lamp's shortened operating life span or\npossibly lamp failure. The lamp life specified for Dell's projectors refers to the\ntypical time under non-stressful operating conditions for more than 50% of a\nsampling population to reduce to approximately 50% of the lamp's rated\nbrightness level. It is not the measure of time a lamp will cease light output.\nDimensions (W x H x D)\nExternal 10.8 x 8.3 x 4 ± 0.04 inches (273.7\nx 212 x 101 ± 1 mm)\nEnvironmental\nOperating temperature: 5oC - 35oC (41oF-\n95oF)\nHumidity: 80% maximum\nStorage temperature: -20oC to 60oC\n(-4oF to 140oF)\nHumidity: 80% maximum\nRegulatory\nFCC, CE, VCCI, UL, cUL, Nemko-GS,\nICES-003, MIC, C-Tick, GOST, CCC, PSB,\nNOM, IRAM, SABS\nI/O Connectors\nPower: AC power input socket\nComputer input: one D-sub for\nanalog/component, HDTV input signals\nComputer output: one 15-pin D-sub\nVideo input: one composite video RCA and\none S-video\nAudio input: one phone jack (diameter 3.5\nmm)\nAudio output: one phone jack (diameter 3.5\nmm)\nOne mini-DIN RS232 for wired remote\ncontrol from PC\nLamp\n260-watt user-replaceable 2000-hour lamp\n(up to 2500 hours in eco mode)\n",
+    "39": "Specifications\n39\nRS232 Pin Assignment\nRS232 Protocol\n•\nCommunication Settings\n•\nCommand types\nTo pop up the OSD menu and adjust the settings.\n•\nControl command Syntax (From PC to Projector)\n[H][AC][SoP][CRC][ID][SoM][COMMAND]\n•\nExample: Power ON Command (Send low byte firstly)\n--> 0xBE, 0xEF, 0x10, 0x05, 0x00, 0xC6, 0xFF, 0x11, 0x11, 0x01, 0x00, 0x01\n•\nControl Commands List\nGo to support.dell.com to view the latest RS232 code.\nConnection settings\nValue\nBaud Rate:\n19200\nData Bits:\n8\nParity\nNone\nStop Bits\n1\n",
+    "40": "40\nSpecifications\nCompatibility Modes\nMode\nResolution\n(ANALOG)\nV. Frequency (Hz)\nH. Frequency (KHz)\nVGA\n640X350\n70\n31.5\nVGA\n640X350\n85\n37.9\nVGA\n640X400\n85\n37.9\nVGA\n640X480\n60\n31.5\nVGA\n640X480\n72\n37.9\nVGA\n640X480\n75\n37.5\nVGA\n640X480\n85\n43.3\nVGA\n720X400\n70\n31.5\nVGA\n720X400\n85\n37.9\nSVGA\n800X600\n56\n35.2\nSVGA\n800X600\n60\n37.9\nSVGA\n800X600\n72\n48.1\nSVGA\n800X600\n75\n46.9\nSVGA\n800X600\n85\n53.7\nXGA\n1024X768\n60\n48.4\nXGA\n1024X768\n70\n56.5\nXGA\n1024X768\n75\n60.0\nXGA\n1024X768\n85\n68.7\nWXGA\n1280X720\n59.85\n44.77\nWXGA\n1280X768\n59.87\n47.77\nWXGA\n1280X800\n59.81\n49.70\nWXGA\n1360X768\n60.01\n47.71\nWXGA\n1440X900\n59.87\n55.93\nWSXGA+\n1680X1050\n59.88\n64.67\nWUXGA\n1920X1200\n49.97\n64.41\n*SXGA\n1280X1024\n60\n63.98\n*SXGA\n1280X1024\n75\n79.98\n*SXGA\n1280X1024\n85\n91.1\n*SXGA+\n1400X1050\n60\n63.98\n*UXGA\n1600x1200\n60\n75\nMAC LC13*\n640X480\n66.66\n34.98\nMAC II 13*\n640X480\n66.68\n35\nMAC 16*\n832X624\n74.55\n49.725\n",
+    "41": "Specifications\n41\nMAC 19*\n1024X768\n75\n60.24\n*MAC\n1152X870\n75.06\n68.68\nMAC G4\n640X480\n60\n31.35\nIMAC DV\n1024X768\n75\n60\n*Compressed computer image.\n",
+    "42": "42\nContacting Dell\nContacting Dell\nFor customers in the United States, call 800-WWW-DELL (800-999-3355).\nNOTE: If you do not have an active Internet connection, you can find contact\ninformation on your purchase invoice, packing slip, bill, or Dell product catalog.\nDell provides several online and telephone-based support and service options.\nAvailability varies by country and product, and some services may not be\navailable in your area. To contact Dell for sales, technical support, or\ncustomer service issues:\n1\nVisit support.dell.com.\n2\nVerify your country or region in the Choose A Country/Region drop-down\nmenu at the bottom of the page.\n3\nClick Contact Us on the left side of the page.\n4\nSelect the appropriate service or support link based on your need.\n5\nChoose the method of contacting Dell that is convenient for you.\n",
+    "43": "Glossary\n43\nAppendix: Glossary\nANSI LUMENS —A standard for measuring light output, used for comparing\nprojectors.\nASPECT RATIO —The most popular aspect ratio is 4:3 (4 by 3). Early television and\ncomputer video formats are in a 4:3 aspect ratio, which means that the width of\nthe image is 4/3 times the height.\nBACKLIT (BACKLIGHT) —Refers to a remote control, or a projector control panel, that\nhas buttons and controls that are illuminated.\nBandwidth— The number of cycles per second (Hertz) expressing the difference\nbetween the lower and upper limiting frequencies of a frequency band; also, the\nwidth of a band of frequencies.\nBrightness— The amount of light emitting from a display or projection display or\nprojection device. The brightness of projector is measured by ANSI lumens.\nColor Temperature— A method of measuring the whiteness of a light source.\nMetal halide lamps have a higher temperature compared to halogen or\nincandescent lights.\nComponent Video—A method of delivering quality video in a format that\ncontains all the components of the original image. These components are referred\nto as luma and chroma and are defined as Y'Pb'Pr' for analog component and\nY'Cb'Cr' for digital component. Component video is available on DVD players and\nprojectors.\nComposite Video — The combined picture signal, including vertical and\nhorizontal blanking and synchronizing signals.\nCompression— A function that deletes resolution lines from the image to fit in\nthe display area.\nCompressed SVGA— To project an 800x600 image to a VGA projector, the\noriginal 800x600 signal must be compressed down. The data displays all the\ninformation with only two thirds of the pixels (307,000 vs 480,000). The resulting\nimage is SVGA page size but sacrifices some of the image quality. If you are using\nan SVGA computers, connecting VGA to a VGA projector. provide better results.\nCompressed SXGA— Found on XGA projectors, compressed SXGA handling\nallows these projectors to handle up to 1280x1024 SXGA resolution.\nCompressed XGA— Found on SVGA projectors, compressed XGA handling\nallows these projectors to handle 1024x768 XGA resolution.\n",
+    "44": "44\nGlossary\nContrast Ratio— Range of light and dark values in a picture, or the ratio between\ntheir maximum and minimum values. There are two methods used by the\nprojection industry to measure the ratio:\n1 Full On/Off — measures the ratio of the light output of an all white image (full\non) and the light output of an all black (full off) image.\n2 ANSI — measures a pattern of 16 alternating black and white rectangles. The\naverage light output from the white rectangles is divided by the average light\noutput of the black rectangles to determine the ANSI contrast ratio.\nFull On/Off contrast is always a larger number than ANSI contrast for the same\nprojector.\ndB— decibel—A unit used to express relative difference in power or intensity,\nusually between two acoustic or electric signals, equal to ten times the common\nlogarithm of the ratio of the two levels.\nDiagonal Screen— A method of measuring the size of a screen or a projected\nimage. It measures from one corner to the opposite corner. A 9FT high, 12FT\nwide, screen has a diagonal of 15FT. This document assumes that the diagonal\ndimensions are for the traditional 4:3 ratio of a computer image as per the example\nabove.\nDLP— Digital Light Processing—Reflective display technology developed by\nTexas Instruments, using small manipulated mirrors. Light passes through a color\nfilter is sent to the DLP mirrors which arrange the RGB colors into a picture\nprojected onto screen, also known as DMD.\nDMD— digital Micro- Mirror Device— Each DMD consists of thousands of\ntilting, microscopic aluminum alloy mirrors mounted on a hidden yoke.\nDVI— Digital Visual Interface— Defines the digital interface between digital\ndevices such as projectors and personal computers. For devices that support DVI, a\ndigital to digital connection can be made that eliminates the conversion to analog\nand thereby delivers an unblemished image.\nFocal Length— The distance from the surface of a lens to its focal point.\nFrequency— It is the rate of repetition in cycles per seconds of electrical signals.\nMeasured in Hz.\nHz — Frequency of an alternating signal. See Frequency.\nKeystone Correction— Device that will correct an image of the distortion\n(usually a wide-top narrow-bottom effect) of a projected image caused by\nimproper projector to screen angle.\nLaser Pointer— A small pen or cigar sized pointer that contains a small battery\npowered laser, which can project a small, red (typically), high intensity beam of\nlight that is immediately very visible on the screen.\n",
+    "45": "Glossary\n45\nMaximum Distance— The distance from a screen the projector can be to cast an\nimage that is useable (bright enough) in a fully darkened room.\nMaximum Image Size— The largest image a projector can throw in a darkened\nroom. This is usually limited by focal range of the optics.\nMetal Halide Lamp— The type of lamp used in many medium and all high end\nportable projectors. These lamps typically have a \"half-life\" of 1000-2000 hours.\nThat is they slowly lose intensity (brightness) as they are used, and at the \"half-life\"\npoint, they are half as bright as when new. These lamps output a very \"hot\"\ntemperature light, similar to mercury vapor lamps used in streetlights.. Their\nwhites are \"extremely\" white (with slight bluish cast.) and make Halogen lamp's\nwhites look very yellowish by comparison.\nMinimum Distance— The closest position that a projector can focus an image\nonto a screen.\nNTSC— The United States broadcast standard for video and broadcasting.\nPAL— A European and international broadcast standard for video and\nbroadcasting. Higher resolution than NTSC.\nPower Zoom— A zoom lens with the zoom in and out controlled by a motor,\nusually adjusted from the projector's control panel and also the remote control.\nReverse Image— Feature that allows you to flip the image horizontally. When\nused in a normal forward projection environment text, graphics, etc, are\nbackwards. Reverse image is used for rear projection.\nRGB— Red, Green, Blue— typically used to describe a monitor that requires\nseparate signals for each of the three colors.\nS-Video—A video transmission standard that uses a 4-pin mini-DIN connector to\nsend video information on two signal wires called luminance (brightness, Y) and\nchrominance (color, C). S-Video is also referred to as Y/C.\nSECAM— A French and international broadcast standard for video and\nbroadcasting. Higher resolution than NTSC.\nSVGA— Super Video Graphics Array— 800 x 600 pixels count.\nSXGA— Super Ultra Graphics Array,—1280 x 1024 pixels count.\nUXGA— Ultra Extended Graphics Array—1600 x 1200 pixels count.\nVGA— Video Graphics Array—640 x 480 pixels count.\nXGA— Extra Video Graphics Array— 1024 x 768 pixels count.\n",
+    "46": "46\nGlossary\nZoom Lens— Lens with a variable focal length that allows operator to move the\nview in or out making the image smaller or larger.\nZoom Lens Ratio— Is the ratio between the smallest and largest image a lens can\nprojector from a fixed distance. For example, a 1.4:1 zoom lens ratio means that a\n10 foot image without zoom would be a 14 foot image with full zoom.\n",
+    "47": "Index\n47\nIndex\nA\nAdjusting Projection Image Size 35\nAdjusting the Projected Image 15\nAdjusting the Projector Height\n15\nlower the projector\nElevator button 15\nElevator foot 15\nTilt adjustment wheel 15\nAdjusting the Projector Zoom and\nFocus 16\nFocus ring 16\nZoom tab 16\nC\nChanging the Lamp 35\nConnecting a Computer with a\nRS232 cable 13\nConnecting the Projector\nComposite video cable 11\nConnecting with a Component\nCable 12\nConnecting with a Composite\nCable 11\nConnecting with an S-video Ca-\nble 10\nD-sub to D-sub cable 9\nD-sub to YPbPr cable 12\nPower cord 9, 10, 11, 12, 13\nRS232 cable 13\nS-video cable 10\nTo Computer 9\nUSB to USB cable 9\nConnection Ports\nAudio input connector 8\nAudio output connector 8\nComposite video connector 8\nIR receiver 8\nKensington lock hole 8\nPower cord connector 8\nRS232 connector 8\nS-video connector 8\nUSB remote connector 8\nVGA in (D-sub) connector 8\nVGA out (monitor\nloop-through) 8\nContact Dell 5, 19, 33, 34, 35\nContacting Dell 42\nControl Panel 18\nD\nDell\nContacting 42\nM\nMain Unit 7\n",
+    "48": "48\nIndex\nControl panel 7\nElevator button 7\nFocus ring 7\nLens 7\nRemote control receiver 7\nZoom tab 7\nO\nOn-Screen Display 21\nAuto-Adjust 22\nDISPLAY (in PC Mode) 25\nDISPLAY (in Video Mode) 26\nInput Select 22\nLAMP 26\nLANGUAGE 27\nMain Menu 22\nPICTURE (in PC Mode) 24\nPICTURE (in Video Mode) 24\nPreferences 28\nSet Up 22\nP\nPhone numbers 42\nPowering On/Off the Projector\nPowering Off the Projector 14\nPowering On the Projector 14\nR\nRemote Control 20\nS\nSpecifications\nAudio 37\nBrightness 37\nColor Wheel Speed 37\nCompatibility Modes 40\nContrast Ratio 37\nDimensions 38\nDisplayable Color 37\nEnvironmental 38\nH. Frequency 37\nI/O Connectors 38\nLamp 37\nLight Valve 37\nNoise Level 38\nNumber of Pixels 37\nPower Consumption 37\nPower Supply 37\nProjection Distance 37\nProjection Lens 37\nProjection Screen Size 37\nRegulatory 38\nRS232 Protocol 39\nUniformity 37\nV. Frequency 37\nVideo Compatibility 37\nWeight 38\nSupport\nContacting Dell 42\nT\nTelephone numbers 42\nTroubleshooting 31\n",
+    "49": "Index\n49\nContact Dell 31\n"
+  }
+}
